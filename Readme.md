@@ -2,6 +2,7 @@
 
 This repo is meant to be example from a blog post. This package is Not Production Ready and meant to be more a simple example to learn the concepts in GO
 
+Blog Post: https://www.eternaldev.com/blog/building-cli-application-with-go/
 
 ## Introduction
 Building a simple go program which will take an `task` being performed by the user and create a timer for 25 minutes. During this time the user is meant to fully focus on the task which he wants to do. After the timer runs out, we will print out that the timer is done. User can take a break once the timer is complete and start the cycle again until the task is complete
